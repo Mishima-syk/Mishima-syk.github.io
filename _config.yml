@@ -7,14 +7,12 @@
 
 # Site settings
 title: Mishima.syk
-email: kerolinq@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Mishima.sykは主に三島を中心に活動するライフサイエンス系の勉強会で、
+  特にオープンソース・ソフトウェアの活用や普及を促進するためにハンズオンや
+  啓蒙活動を行っています
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://mishima-syk.github.io
-twitter_username: fmkz___
 github_username:  Mishima-syk
 
 # Build settings
