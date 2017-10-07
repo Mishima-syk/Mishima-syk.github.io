@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Mishima.syk #10 (No Theme)"
+categories: mishimasyk
+---
+
+今回は色々な話題です。
+
+- [Mishima.syk #10](https://connpass.com/event/57469/)
+
+## タイムスケジュール
+
+- 13:00 - 13:15	準備と自己紹介など	
+- 13:15 - 14:00	ハッピーハッピー構造生成まつり'67(タイトル未定)	@fmkz___
+- 14:00 - 14:20	ML@python関連のお話の予定です。	@iwatobipen
+- 14:20 - 14:30	休憩	
+- 14:30 - 14:45	まだ環境構築で消耗しているの?〜Biocondaを使ってみた〜	@bonohu
+- 14:45 - 15:00	創薬ちゃんの化合物詠唱機能について	@kubor_
+- 15:00 - 15:15	休憩	
+- 15:15 - 15:30	KNIMEのbatch modeを使ってみた	@tkochi0603
+- 15:30 - 15:45	SPARQLなLT	@no85j
+- 15:45 - 15:55	LT	@y_sama
+- 15:55 - 16:45	予備	
+- 16:45 - 17:00	後片付け
+
+## 資料など
+
+- [リンク参照](https://connpass.com/event/57469/presentation/)
+- [Mishima.syk #10 repo](https://github.com/Mishima-syk/10)
+
+
