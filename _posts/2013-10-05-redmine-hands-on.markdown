@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mishima.syk #1 (製薬やLS業界向けRedmineハンズオン+α)"
+title:  "Mishima.syk #1 (Redmine+etc.)"
 categories: mishimasyk
 ---
 
