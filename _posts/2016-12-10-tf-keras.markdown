@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Mishima.syk #9 (TensorFlow&Keras hands-on)"
+categories: mishimasyk
+---
+
+今回はTensorFlowとKerasのハンズオンです
+
+- [Mishima.syk #9](https://connpass.com/event/42284/)
+
+## タイムスケジュール
+
+- 13:00 - 13:15	準備と自己紹介など	
+- 13:15 - 15:15	環境構築とTensorflowハンズオン	@fmkz___
+- 15:15 - 15:30	おやつタイム	
+- 15:30 - 16:45	kerasハンズオン	@iwatobipen
+- 16:45 - 17:00	後片付け	
+
+
+## 資料など
+
+[Mishima-syk #9 repo](https://github.com/Mishima-syk/9)
+
+
+
