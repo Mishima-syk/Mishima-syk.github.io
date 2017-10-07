@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Mishima.syk #6 (OpenEye+FMO+RDKit+3DP)"
+categories: mishimasyk
+---
+
+今回はケモインフォマティクスの話題が中心です
+
+- [Mishima.syk #6](https://connpass.com/event/16537/)
+
+## タイムスケジュール
+
+- 13:00 - 13:15	準備と自己紹介など	
+- 13:15 - 14:45	ipython notebookとOpenEye Toolkit	@OpenEye-Hara
+- 14:45 - 15:00	休憩	
+- 15:00 - 15:30	量子化学計算外伝 凄いぞ!!FMO	@fmkz___
+- 15:30 - 15:45	rdkitの話もしくは機械学習関連で撃沈した話	@iwatobipen
+- 15:45 - 16:00	3Dプリンティングはじめました（前篇）	@y_sama
+- 16:00 - 16:15	何か	@No_6
+- 16:15 - 16:30	撤収準備	
+
+## スライド
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/G5SkTt5wpZy2kj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/KazufumiOhkawa/fmo-50910594" title="量子化学計算外伝　すごいよ!! FMO" target="_blank">量子化学計算外伝　すごいよ!! FMO</a> </strong> from <strong><a href="https://www.slideshare.net/KazufumiOhkawa" target="_blank">Kazufumi Ohkawa</a></strong> </div>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/hzVMlPaCPoCKNd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/seritaka/mishimasyk6-iwatobipen" title="Mishimasyk6 iwatobipen" target="_blank">Mishimasyk6 iwatobipen</a> </strong> from <strong><a href="https://www.slideshare.net/seritaka" target="_blank">Takayuki Serizawa</a></strong> </div>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/nai4wsxvg8TkkP" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ski_nanko/ingress-50967339" title="Ingressと私" target="_blank">Ingressと私</a> </strong> from <strong><a href="https://www.slideshare.net/ski_nanko" target="_blank">ski_nanko</a></strong> </div>
+
+## その他資料
+
+- [3Dプリンティングはじめました（前篇）](https://docs.google.com/presentation/d/1TkCglyCEu5WTU7ikxAW3DbiSLVytqaouNGCrB7_jqpo/present?slide=id.p4)
+- [SPARQLthon31に行ってきました](https://drive.google.com/file/d/0B0KpuCZqoLcIX1FUOEtKa1VfeXQtckVOcDJWZ0Rfa3cxbTFR/view)
