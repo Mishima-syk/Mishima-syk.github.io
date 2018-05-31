@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Mishima.syk #12 (No Theme)"
+categories: mishimasyk
+---
+
+2018/06/23にやります。今回テーマは決めてませんのでもしネタがあればこの機会に話してみませんか？
+
+- [Mishima.syk #12](https://connpass.com/event/83396/)
+
+## 内容
+
+- bioinformatics,chemoinformaticsの国際会議で得てきたちょっといい話
+- 結晶構造解析tips
+- ターゲット探索苦労話
+- その他色々
+
+## タイムスケジュール
+
+- 策定中
+
+## 資料など
+
+以下フォルダにアップロード予定
+
+- [Mishima.syk #12 repo](https://github.com/Mishima-syk/12)
+
+
