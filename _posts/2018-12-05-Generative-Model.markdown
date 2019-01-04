@@ -17,7 +17,8 @@ categories: mishimasyk
 |13:15 - 14:00|LRBase×scTensorで細胞間コミュニケーションの検出|@antiplastics|
 |14:00 - 15:30|Generator hands-on(休憩含む)|@fmkz___ , @iwatobipen|
 |15:30 - 16:00|Deepな何かを動かそう！|@iwatobipen|
-||演題募集中(残り40分くらい)||
+|10min|「生命科学データ解析を支える情報技術」本に関する話|@bonohu, @oec014|
+||演題募集中(残り30分くらい)||
 |16:45 - 17:00|後片付け||
 
 # 資料など
