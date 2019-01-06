@@ -8,6 +8,8 @@ categories: mishimasyk
 
 - [Mishima.syk #5](https://connpass.com/event/11678/)
 
+![at Aya](/assets/msyk5.jpg)
+
 ## タイムスケジュール
 
 - 13:00 - 13:30	準備と自己紹介など	
