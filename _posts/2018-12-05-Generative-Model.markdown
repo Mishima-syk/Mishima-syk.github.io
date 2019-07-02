@@ -16,7 +16,7 @@ categories: mishimasyk
 |13:00 - 13:15|準備と自己紹介など||
 |13:15 - 14:00|LRBase×scTensorで細胞間コミュニケーションの検出|@antiplastics|
 |14:00 - 15:30|Generator hands-on(休憩含む)|@fmkz___ , @iwatobipen|
-|15:30 - 16:00|Deepな何かを動かそう！|@iwatobipen|
+|15:30 - 16:00|転移学習っぽいねたハンズオン|@iwatobipen|
 |10min|「生命科学データ解析を支える情報技術」本に関する話|@bonohu, @oec014|
 |15min|KNIMEを使って画像解析データを可視化する|@t_kahi|
 |5min|アッセイデータベースシステム なにもわからない|@No_6|
