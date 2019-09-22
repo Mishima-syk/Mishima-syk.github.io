@@ -12,7 +12,7 @@ categories: mishimasyk
 - [Mishima.syk #14](https://connpass.com/event/137642/)
 - [Mishima.syk #14 懇親会](https://connpass.com/event/137638/)
 
-# タイムスケジュール
+## タイムスケジュール
 
 | 時間 | 内容| 発表者 |
 |:------------ |:--------------:| ------------:|
@@ -28,9 +28,16 @@ categories: mishimasyk
 |10min|予備||
 |16:45 - 17:00|後片付け||
 
-# 資料など
+## 資料など
 
-Github repoにアップロード予定
+- [conpass](https://connpass.com/event/137642/presentation/)
+- [GitHub](https://github.com/Mishima-syk/14)
+
+## 参加報告
+
+- [Mishima.syk 14th / ぼうのブログ](http://bonohu.jp/blog/mishimasyk-14th.html)
+- [Mishima.syk #14に参加しました / t_kahi’s blog](https://www.t-kahi.com/entry/2019/09/22/132415)
+- [Mishima.syk #14やりました / Drkcore](http://blog.kzfmix.com/entry/1569135106)
 
 
 
