@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Mishima.syk #16 (TBD)"
+categories: mishimasyk
+---
+
+2020/11/28にオンライン開催です。Zoomのアドレスは当日までににメールする予定です。
+
+トークしたければタイトルと時間をfmkz___までご一報ください。
+
+参加登録は以下のリンクからよろしくお願いします。
+
+- [Mishima.syk #16](https://connpass.com/event/164605/)
+
+
+## タイムスケジュール
+
+| 時間 | 内容| 発表者 |
+|:------------ |:--------------:| ------------:|
+|13:00-13:10|注意事項など||
+|20+5min|バイオインフォ分野におけるtidyなデータ解析の最新動向|@antiplastics|
+||募集中|誰でも|
+
+## 資料など(予定)
+
+- [conpass](https://connpass.com/event/164605/presentation/)
+- [GitHub](https://github.com/Mishima-syk/16)
+
+## 参加報告
+
+終了後追加します。
+
+
+
+
