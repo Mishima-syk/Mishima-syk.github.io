@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mishima.syk #16 (TBD)"
+title:  "Mishima.syk #16 (Bio/Chemoinformatics, LT)"
 categories: mishimasyk
 ---
 
