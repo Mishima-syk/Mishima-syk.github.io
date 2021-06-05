@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Mishima.syk #16 (Bio/Chemoinformatics, LT)"
+title:  "Mishima.syk #17 (Bio/Chemoinformatics, LT)"
 categories: mishimasyk
 ---
 
-2020/11/28にオンライン開催です。Zoomのアドレスは当日までににメールする予定です。
+2021/06/12にオンライン開催です。Zoomのアドレスは当日までににメールする予定です。
 
 トークしたければタイトルと時間をfmkz___までご一報ください。
 
 参加登録は以下のリンクからよろしくお願いします。
 
-- [Mishima.syk #16](https://connpass.com/event/164605/)
+- [Mishima.syk #17](https://connpass.com/event/212884/)
 
 ## 事前準備
 
@@ -45,28 +45,18 @@ categories: mishimasyk
 | 時間 | 内容| 発表者 |
 |:------------ |:--------------:| ------------:|
 |13:00-13:05|注意事項など||
-|13:05-14:00|バイオインフォ分野におけるtidyなデータ解析の最新動向|@antiplastics|
-|14:00-14:25|マイクロバイオーム医療やらないか　ディープコホート研究について|@unkole_ben|
-|14:25-14:55|そのナイム(KNIME)で悪夢(コピペ)を断ち切れ|@t_kahi|
-|14:55-15:00|休憩||
-|15:00-15:30|分子サイズにモダリティを求めるのは間違っているだろうか|@fmkz___|
-|15:30-16:00|インフォ系のDB関連かUGM関連|@iwatobipen|
-|16:00-16:20|幻の構造とその発生源〜構造生成器の基礎と所見|@steroidinlondon|
-|ここからLT|||
-|16:20-16:30|データ探索とGraphQLの話|@oec014|
-|16:30-16:40|気軽に音声認識|@tkochi0603|
-|16:40-16:50|ペンギンもすごいけどハトもすごいぞ|@yamasaKit_|
-|16:50-17:00|新しい生活様式の話|@no85j|
-|17:00-17:10|羅生門をくぐると|@zgmfx20a|
-|17:10-17:15|souyakuchan bot 新術式紹介|@souyakuchan|
-|17:15-18:30?|雑談タイム|希望者|
+|13:05-13:45|指標は雑だが役に立つ？〜ケモインフォにおける指標と解釈〜|@steroidinlondon|
+|13:45-14:45|量子の化学は万能です/Quantum chemistry is omnipotent|fmkz|
+|14:15-15:15|大規模テンソルデータに適用可能なeinsumの開発|@antiplastics|
+|15:15-15:30|休憩||
+|15:30-16:10|新しい生活様式っていつまで新しいんですかね|@no85j|
+|16:10-16:30|LTっぽい話（タイトル未定）|@t_kahi|
+||発表者募集中(あとちょっと)||
 
-## 資料など
+## 資料など(予定)
 
-- [conpass](https://connpass.com/event/164605/presentation/)
-- [GitHub](https://github.com/Mishima-syk/16)
+- [conpass](https://connpass.com/event/212884/presentation/)
+- [GitHub](https://github.com/Mishima-syk/17)
 
 ## 参加報告
 
-- [Mishima.syk #16やりました / Drkcore](http://blog.kzfmix.com/entry/1606601352)
-- [Mishima.syk #16に参加しました / t_kahi’s blog](https://www.t-kahi.com/entry/2020/11/29/192633)
