@@ -46,17 +46,19 @@ categories: mishimasyk
 |:------------ |:--------------:| ------------:|
 |13:00-13:05|注意事項など||
 |13:05-13:45|指標は雑だが役に立つ？〜ケモインフォにおける指標と解釈〜|@steroidinlondon|
-|13:45-14:45|量子の化学は万能です/Quantum chemistry is omnipotent|fmkz|
-|14:15-15:15|大規模テンソルデータに適用可能なeinsumの開発|@antiplastics|
-|15:15-15:30|休憩||
-|15:30-16:10|新しい生活様式っていつまで新しいんですかね|@no85j|
-|16:10-16:30|LTっぽい話（タイトル未定）|@t_kahi|
-||発表者募集中(あとちょっと)||
+|13:45-14:45|量子の化学は万能です/Quantum chemistry is omnipotent|@fmkz____|
+|14:45-15:25|大規模テンソルデータに適用可能なeinsumの開発|@antiplastics|
+|15:25-15:35|休憩||
+|15:35-16:05|新しい生活様式っていつまで新しいんですかね|@no85j|
+|16:05-16:25|LTっぽい話（タイトル未定）|@t_kahi|
+|16:25-16:45|音声認識で機器予約|@tkochi0603|
 
 ## 資料など(予定)
 
 - [conpass](https://connpass.com/event/212884/presentation/)
+- [音声認識で機器予約](https://github.com/kochi0603/mishima17/blob/main/Mishima_syk_17.pdf)
 - [GitHub](https://github.com/Mishima-syk/17)
 
 ## 参加報告
 
+- [Mishima.syk #17 やりました](http://blog.kzfmix.com/entry/1623547247)
