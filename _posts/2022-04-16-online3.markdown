@@ -48,11 +48,11 @@ categories: mishimasyk
 |13:05-13:35|モルの AD ディスカバリー　~applicability domain に関する所見~|@steroidinlondon|
 |13:35-14:15|Rustの話|@yamasaKit_|
 |14:15-14:45|データ可視化アプリをさくっと作りたい話|@iwatobipen|
-|14:45-15:00|休憩||
-|15:00-15:40|僕と論文子（ロボコ）|@fmkz___|
-|15:40-16:10|なにか|@steroidinlondon|
-|16:10-16:20|パッケージングハッカソンBio"Pack"athonの紹介|@antiplastics|
-||演題募集中@fmkz___まで|
+|14:45-14:55|休憩||
+|14:55-15:35|Cell-type DeconvolutionとDiagonalデータ解析の解説|@antiplastics|
+|15:35-16:05|僕と論文子（ロボコ）|@fmkz___|
+|16:05-16:35|論文解説|@steroidinlondon|
+|16:35-16:55|KNIMEをSlurmで動かす話|@tkochi0603|
 
 ## 資料など(予定)
 
