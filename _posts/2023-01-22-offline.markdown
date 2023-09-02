@@ -27,7 +27,7 @@ categories: mishimasyk
 |16:00-16:45|飛び込みLT用||
 |16:45 - 17:00|後片付け||
 
-## 資料など(予定)
+## 資料など
 
 - [GitHub](https://github.com/Mishima-syk/19)
 

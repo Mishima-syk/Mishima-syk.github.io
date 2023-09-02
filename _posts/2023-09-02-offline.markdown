@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Mishima.syk #20"
+categories: mishimasyk
+---
+
+2023/11/11は10周年開催です。
+
+トークをしたい方はタイトルと時間をfmkz___までご一報ください。
+
+参加登録は以下のリンクからよろしくお願いします。
+
+- [Mishima.syk #20](https://connpass.com/event/295282/)
+- [Mishima.syk #20 懇親会](https://connpass.com/event/295281/)
+
+## タイムスケジュール
+
+| 時間 | 内容| 発表者 |
+|:------------ |:--------------:| ------------:|
+|13:00-13:15|自己紹介など||
+||調整中||
+|16:45 - 17:00|後片付け||
+
+## 資料など(予定)
+
+- [GitHub](https://github.com/Mishima-syk/20)
+
+## 参加報告
