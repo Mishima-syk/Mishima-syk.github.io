@@ -6,7 +6,7 @@ categories: mishimasyk
 
 今回はScikit-learnのハンズオンです
 
-- [Mishima.syk #8]()
+- [Mishima.syk #8](https://connpass.com/event/29258/)
 
 ## タイムスケジュール
 
