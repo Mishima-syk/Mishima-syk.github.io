@@ -6,7 +6,7 @@ categories: mishimasyk
 
 今回はDeepLearningの話題が中心です
 
-- [Mishima.syk #7](https://connpass.com/event/16537/)
+- [Mishima.syk #7](https://connpass.com/event/22280/)
 
 ## タイムスケジュール
 
