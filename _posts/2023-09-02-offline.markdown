@@ -18,8 +18,16 @@ categories: mishimasyk
 | 時間 | 内容| 発表者 |
 |:------------ |:--------------:| ------------:|
 |13:00-13:15|自己紹介など||
-||調整中||
+|13:15-13:45|Transformer系機械学習モデルを取り巻くライブラリや用語を整理する|@bobfromjapan|
+|13:45-14:30|「KNIME」「実験データ管理のworkflow」を考える|@t_kahi|
+|14:30-15:00|QM Based Drug Design (QBDD)|@fmkz___|
+|15:00-15:15|休憩||
+|15:15-15:45|Let's enjoy open science|@iwatobipen|
+|!5:45-16:20|mishima.sykの10年を振り返って|@no85j|
+|16:20-16:30|俺たちの戦いはこれからだ! ～KNIMEST戦記～|@Note_of_KNIME|
+|16:30-16:40|小２の夏休み自由研究をchatGPTに聞いてみた|@ jokadat |
 |16:45 - 17:00|後片付け||
+
 
 ## 資料など(予定)
 
