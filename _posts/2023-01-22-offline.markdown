@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mishima.syk #19"
+title:  "Mishima.syk #19 (No Theme)"
 categories: mishimasyk
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mishima.syk #21"
+title:  "Mishima.syk #21 (LLM, conference reports)"
 categories: mishimasyk
 ---
 
