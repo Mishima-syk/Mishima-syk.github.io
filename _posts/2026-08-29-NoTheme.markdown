@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Mishima.syk #23"
+categories: mishimasyk
+---
+
+2026/08/29です。
+
+トークをしたい方はタイトルと時間をfmkz___までご一報ください。
+
+参加登録は以下のリンクからよろしくお願いします。
+
+- [Mishima.syk #22](https://connpass.com/event/396186/)
+- [Mishima.syk #22 懇親会](https://connpass.com/event/396185/)
+
+## タイムスケジュール
+
+| 時間 | Title| 発表者 |
+|:------------ |:--------------:| ------------:|
+|13:00-13:20|自己紹介など||
+|13:20-14:05|QPXについて|@bonohu|
+|14:05-14:30|Everyday QM: Automating QM predictions in industry|@PatrickPenner|
+|14:30-14:55|Let’s enjoy open science​ / unlimited codes|@KNIMEST|
+|14:55-15:15|休憩(break)||
+|15:15-15:40|T.B.D|@miz|
+|15:40-15:55|An Answer is Always on The Stretch of Road|@fmkz___|
+|15:55-16:15|この英語...できるぞ！|@jokadat |
+|16:15-16:25|T.B.D|@mitsuki |
+|20min, 10minx2|||
+|16:45 - 17:00|後片付け||
+
+
+
+## 資料など(予定)
+
+- [GitHub](https://github.com/Mishima-syk/23)
+
+## 参加報告
+
